@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fancyc4sh</h1>
-<h3 align="center">A developer that likes to write code from sweden!</h3>
+<h3 align="center">A developer that likes to write code located in Sweden!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fancyc4sh&label=Profile%20views&color=0e75b6&style=flat" alt="fancyc4sh" /> </p>
 
