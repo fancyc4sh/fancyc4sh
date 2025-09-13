@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/fancyc4sh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fancyc4sh/fancyc4sh/output/snake.svg" alt="Snake animation" />
 
 ###
