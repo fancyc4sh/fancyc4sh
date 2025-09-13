@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is fancyc4sh and I'm a developer </h2>
+<h2 align="left">Hi 👋! I'm a roblox developer and getting into app development! </h2>
 
 ###
 
@@ -26,7 +26,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/fancyc4sh/fancyc4sh/output/snake.svg" alt="Snake animation" />
 
 ###
